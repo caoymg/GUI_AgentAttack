@@ -67,7 +67,7 @@ Adversarial image will be saved to the working directory:
 ## 🧪 Reference
 
 - [OpenCLIP](https://github.com/mlfoundations/open_clip)
-- [EVA-CLIP](https://github.com/BAAI-EVAL/EVA](https://arxiv.org/abs/2303.15389)
+- [EVA-CLIP](https://arxiv.org/abs/2303.15389)
 - PGD-inspired adversarial optimization with text-guided supervision.
 
 ---
