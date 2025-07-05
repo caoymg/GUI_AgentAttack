@@ -1,4 +1,3 @@
-# File: cogattack/attack.py
 import torch
 import torch.nn.functional as F
 from attack.utils import save_tensor_as_image
