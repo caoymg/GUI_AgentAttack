@@ -1,4 +1,4 @@
-# 🐶 GUI Screenshot Adversarial Attack
+# GUI Screenshot Adversarial Attack
 
 This project implements a **targeted adversarial attack** on GUI screenshots using [EVA CLIP](https://github.com/BAAI-EVAL/EVA) models (e.g., E-14, E-14+).  
 The goal is to make a screenshot semantically resemble a **target concept** (e.g., *“a dog wearing sunglasses”*) while still looking like a **benign GUI** (e.g., *a search page*).
@@ -68,6 +68,5 @@ Adversarial image will be saved to the working directory:
 
 - [OpenCLIP](https://github.com/mlfoundations/open_clip)
 - [EVA-CLIP](https://arxiv.org/abs/2303.15389)
-- PGD-inspired adversarial optimization with text-guided supervision.
 
 ---
