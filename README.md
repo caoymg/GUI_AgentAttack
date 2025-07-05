@@ -71,7 +71,8 @@ This project uses the following external libraries:
 
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) 
 - [Transformers](https://github.com/huggingface/transformers) 
-- [PyTorch](https://pytorch.org/) 
+- [PyTorch](https://pytorch.org/)
+  
 Please refer to their respective repositories for license details. This repository only applies the MIT License to original code within the `attack/` folder and `run_attack.py`.
 
 ---
