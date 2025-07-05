@@ -64,9 +64,14 @@ Adversarial image will be saved to the working directory:
 
 ---
 
-## 🧪 Reference
 
-- [OpenCLIP](https://github.com/mlfoundations/open_clip)
-- [EVA-CLIP](https://arxiv.org/abs/2303.15389)
+## 🧩 Dependencies
+
+This project uses the following external libraries:
+
+- [OpenCLIP](https://github.com/mlfoundations/open_clip) 
+- [Transformers](https://github.com/huggingface/transformers) 
+- [PyTorch](https://pytorch.org/) 
+Please refer to their respective repositories for license details. This repository only applies the MIT License to original code within the `attack/` folder and `run_attack.py`.
 
 ---
